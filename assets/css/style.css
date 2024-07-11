@@ -17,14 +17,14 @@ html {
 
 }
 
-/* .row::after {
+.row::after {
     content: "";
     display: block;
     clear: both;
-} */
+}
 
 .col {
-    display: inline-block;
+    float: left;
     padding-left: 8px;
     padding-right: 8px;
 }
@@ -270,7 +270,7 @@ html {
 #content .span-detail-1 {
     background-color: #000;
     color: #fff;
-    display: inline-block;
+    float: right;
     padding: 0 8px;
     margin-right: 16px;
     text-align: center;
