@@ -49,4 +49,10 @@
     width: auto;
     padding-bottom: 12px;
   }
+  .contact-info {
+    text-align: center;
+}
+  .form-submit-btn {
+    width: 100%;
+}
 }
