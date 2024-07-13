@@ -41,18 +41,22 @@
     width: auto;
   }
 
-  .col-2 {
+  .contact-form {
     width: 100%;
   }
 
-  .col-3 {
+  .member-item-mobile {
     width: auto;
     padding-bottom: 12px;
   }
   .contact-info {
     text-align: center;
-}
+    width: 100%;
+  }
   .form-submit-btn {
     width: 100%;
-}
+  }
+  .form-control, .model-input {
+    font-size: 16px;
+  }
 }
